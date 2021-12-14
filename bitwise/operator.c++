@@ -11,11 +11,6 @@ int main()
     cout<<a<<"\n"; 
     a=2^3;
     cout<<a<<"\n"; 
-    
-    
-
-
-
 
 return 0;
 }
